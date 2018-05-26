@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+
+
+   <string name="Arabic_Songs">Arabic Songs</string>
+   <string name="English_Songs">English Songs</string>
+
+    <string name="Singer_name">Amr Diab</string>
+
+    <string name="Song_name">Tamaly Maak</string>
+
+
+
+
+</resources>
